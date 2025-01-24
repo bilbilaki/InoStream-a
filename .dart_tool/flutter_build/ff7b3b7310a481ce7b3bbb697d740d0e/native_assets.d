@@ -1,0 +1,1 @@
+ C:\\Users\\inos\\Documents\\InoStream\\.dart_tool\\flutter_build\\ff7b3b7310a481ce7b3bbb697d740d0e\\native_assets.yaml: 

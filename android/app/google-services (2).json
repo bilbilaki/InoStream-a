@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140456718264",
+    "project_id": "inostream-a",
+    "storage_bucket": "inostream-a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140456718264:android:ca76662ed677e207b5294d",
+        "android_client_info": {
+          "package_name": "com.inosuke.inostream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeUQwc7V8k4Gk1zRblVNoA82k8SH89US8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
